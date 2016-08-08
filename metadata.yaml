@@ -1,0 +1,30 @@
+_repo: A-Pluralistic-Universe--13-Hibbert-Lectures-at-Manchester-College-on-the-Present-Situation-in__11984
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+description: Contents.- 1. the Types of Philosophic Thinking.- 2. Monastic Idealism.-
+  3. Hegel and His Method.- 4. Concerning Fechner.- 5. the Compounding of Conciousness.-
+  6. Bergson and His Critique of Intellectualism.- 7. the Continuity of Experience.-
+  8. Conclusions.
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11984'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Modern'
+- GITenberg
+title: "A Pluralistic Universe\r\nHibbert Lectures at Manchester College on the Present\
+  \ Situation in Philosophy"
+url: http://www.gutenberg.org/ebooks/11984
