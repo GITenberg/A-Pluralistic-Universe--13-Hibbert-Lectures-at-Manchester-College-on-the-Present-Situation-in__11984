@@ -1,5 +1,8 @@
 _repo: A-Pluralistic-Universe--13-Hibbert-Lectures-at-Manchester-College-on-the-Present-Situation-in__11984
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, William
@@ -12,6 +15,8 @@ description: Contents.- 1. the Types of Philosophic Thinking.- 2. Monastic Ideal
   3. Hegel and His Method.- 4. Concerning Fechner.- 5. the Compounding of Conciousness.-
   6. Bergson and His Critique of Intellectualism.- 7. the Continuity of Experience.-
   8. Conclusions.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11984#A-Pluralistic-Universe--13-Hibbert-Lectures-at-Manchester-College-on-the-Present-Situation-in_
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
